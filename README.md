@@ -1,6 +1,6 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
-# rse_p7_udacity
+# Home Service Robot
 
 ## Overview
 The goal of this project is to build a `Home Service Robot` in ROS (Robot Operating System). To achieve this goal, a Turtlebot is deployed in a previously unknown custom Gazebo World. The Turlebot will use SLAM algorithm to create a Map of the world, use the generated Occupancy Grid Map for Localization and Path Planning, to perform a Pick and Place action. 
